@@ -1,0 +1,15 @@
+#Top{background:#3FADB3;border:none;}
+#Bottom{border-top: 3px solid #A3CEBE;}
+#Wrapper{background: #E5ECF3;}
+.cell{background: #F8F8F8;border-bottom: 3px solid #E5E8EE;}
+.top{color:#fff;}
+.item{background:#f8f8f8;}
+.header{border-bottom: 3px solid #E5E8EE;}
+.box{box-shadow:none;border:none;}
+#Search>form>div{background: none !important;}
+#q{background: #FFF !important;border: 2px solid #BAC8E6;border-radius: 4px;opacity:0;-webkit-transition:all 0.2s ease;}
+#q:hover{opacity:1;}
+#Top img{-webkit-filter: contrast(130%) invert(100%);}
+a.tab_current{background:#3B3BAF;}
+a.count_livid:link{background:#9D9DD3;}
+a.top:link,a.top:visited,a.top:active{text-shadow:none;color:#fff !important;}
