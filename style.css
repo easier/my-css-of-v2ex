@@ -3,7 +3,9 @@
 a.top:link,a.top:visited,a.top:active,.topic_buttons div:first-child{text-shadow:none;color:#fff !important;}
 .cell{background: #F8F8F8;}
 .header{border-bottom: 3px solid #E5E8EE;}
-.box{box-shadow:none;border:none;}
+.box{background:#fff !important;box-shadow:none;border:none;}
+img[alt='Node.js']{background:#46483E;}
+form[action='/new/nodejs'] .mll,form[action='/new/nodejs'] .sll,form[action='/new/nodejs'] .mle{background:#fff;border:none;}
 .topic_buttons{background:#ddd;}
 a.tb:link, a.tb:visited, a.tb:active{color:#f5f5f5;text-shadow:none;}
 #Search>form>div{background: none !important;}
