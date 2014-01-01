@@ -9,7 +9,7 @@ a.tb:link, a.tb:visited, a.tb:active{color:#f5f5f5;text-shadow:none;}
 #Search>form>div{background: none !important;}
 #q{background: #FFF !important;
 border: 2px solid #BAC8E6;border-radius: 4px;opacity:0;-webkit-transition:all 0.2s ease;}
-#q:hover{opacity:1;}
+#q:focus,#q:hover{opacity:1;}
 #Top img{-webkit-filter: contrast(130%) invert(100%);}
 .top{color:#fff;}
 #Wrapper{background: #E5ECF3;}
